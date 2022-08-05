@@ -1,4 +1,4 @@
-# RewardManageent
+# RewardManagement
 Project is developed in .Net Core
 Project contains dockerfile for linux env
 Project contains the controller, service folder 
